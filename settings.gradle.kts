@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "gato"
+rootProject.name = "calculadora"
 include(":app")
  
